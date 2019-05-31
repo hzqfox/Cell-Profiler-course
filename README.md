@@ -3,8 +3,8 @@ Image Analysis with Cellprofiler
 
 12:30 – 13:15: Introduction to CellProfiler (45 min)
 -	brief intro to image data and IP&A (10-15 min)
--	brief intro to CP, history, usage (10-15 min)
--	brief intro to common modules (15 min)
+-	intro to CP, history, usage (10-15 min)
+-	intro to common modules (15 min)
 
 13:15 – 14:00: demo 1 – foci per DAPI (45 min)
 -	Run CP, load image (5-10 min)
