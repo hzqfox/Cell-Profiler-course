@@ -30,7 +30,7 @@ Image Analysis with Cellprofiler
 15:45 – 16:15: Introduction to image segmentation (30 min)
 -	Image segmentation (5-10 min)
 -	Mask, ROI, and how to use them (10-15 min)
--	intro to CP and CPA (ilastik and FIJI) (10 min)
+-	intro to CP and CPA (10 min)
 
 16:15 – 17:00: CellProfiler Analyst (45 min)
 -	build up pipeline in CP (10-15 min)
